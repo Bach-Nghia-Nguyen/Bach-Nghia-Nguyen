@@ -1,6 +1,6 @@
-### Hello world 👋
+## Hello world 👋
 
-## Web Developer
+# I am a Web Developer
 
 <!--
 **Bach-Nghia-Nguyen/Bach-Nghia-Nguyen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
